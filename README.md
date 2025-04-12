@@ -1,4 +1,4 @@
-# 📊 Amazon Sales Data - Exploratory Data Analysis
+# 📊 AmazonSales-EDA
 
 This project is an exploratory data analysis (EDA) on a dataset of Amazon products and customer reviews. It focuses on uncovering trends in product pricing, discount patterns, customer ratings, and category-wise sales performance. The goal is to derive actionable insights that could support decision-making in e-commerce or retail analytics.
 
@@ -55,5 +55,5 @@ The dataset includes the following fields:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/amazon-sales-eda.git
-   cd amazon-sales-eda
+   git clone https://github.com/yourusername/AmazonSales-EDA.git
+   cd AmazonSales-EDA
